@@ -1,0 +1,7 @@
+******Student Portal Application*****
+--Student Login
+--Course
+--Academics
+--Attendence
+--Paying College Fee
+--Practice Tests
